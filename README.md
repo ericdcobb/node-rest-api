@@ -13,4 +13,4 @@ Using the new Express 4.0 Router to build an API
 - Start the server: `node server.js`
 
 ## Testing the API
-Test your API using [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
+Test the API using [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
